@@ -1,5 +1,5 @@
-$key="YOUR_KEY"
-$endpoint="YOUR_ENDPOINT"
+$key="6383a0fda0614392869b525695b66493"
+$endpoint="https://edneilouback123123123123.cognitiveservices.azure.com/"
 
 
 # Code to call Computer Vision service for image analysis
